@@ -1,0 +1,30 @@
+body {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background: -webkit-linear-gradient(to right, #053B50, #213555);
+    background: linear-gradient(to right,#053B50 , #213555);
+
+}
+
+.headBg {
+    background: -webkit-linear-gradient(to right, #000, #1b1b1b);
+    background: linear-gradient(to right, #000, #1b1a18);
+}
+
+.tableBg {
+    background: #967e8b;
+    background: -webkit-linear-gradient(to right, #8ACDD7,#3081D0 );
+    background: linear-gradient(to right,#8ACDD7,#3081D0);
+}
+
+
+.buttonBg {
+    background: linear-gradient(to top,#022a30, #3081D0);
+}
+form{
+    background: -webkit-linear-gradient(to right, #8ACDD7, #3081D0);
+    background: linear-gradient(to right, #8ACDD7,#3081D0);
+
+}
